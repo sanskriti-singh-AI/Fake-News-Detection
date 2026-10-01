@@ -1,0 +1,3 @@
+Model,CV F1 Mean,Best Parameters
+Logistic Regression (Tuned),0.9915330104110364,"{'model__C': 2.0, 'model__class_weight': 'balanced', 'tfidf__min_df': 5, 'tfidf__ngram_range': (1, 1)}"
+Linear SVM (Tuned),0.9961141920581362,"{'model__C': 2.0, 'model__class_weight': 'balanced', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 2)}"

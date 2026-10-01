@@ -1,0 +1,2 @@
+Final Model,CV F1,Validation Accuracy,Validation Precision,Validation Recall,Validation F1,Validation ROC-AUC,Random State
+Linear SVM (Tuned),0.9961141920581362,0.9964194373401535,0.9950623089583823,0.998348667138476,0.9967027790861988,0.9998303014540517,42

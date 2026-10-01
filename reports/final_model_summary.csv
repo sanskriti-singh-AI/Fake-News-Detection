@@ -1,0 +1,2 @@
+Model,Pipeline,Feature_Count,Ngram_Range,Validation_Accuracy,Validation_Precision,Validation_Recall,Validation_F1,Random_State
+LinearSVC,TF-IDF + Classifier,100000,"(1, 2)",0.9964194373401535,0.9950623089583823,0.998348667138476,0.9967027790861988,42

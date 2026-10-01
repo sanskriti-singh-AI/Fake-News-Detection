@@ -1,0 +1,11 @@
+metric,value
+initial_rows,44898
+final_rows,39100
+rows_removed,5798
+empty_title_rows,0
+empty_text_rows,631
+conflicting_content_keys,0
+exact_duplicate_rows,209
+normalised_duplicate_rows,11105
+fake_articles_final,17905
+true_articles_final,21195
